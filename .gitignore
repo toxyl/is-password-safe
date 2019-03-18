@@ -1,0 +1,4 @@
+project.json
+pre.sh
+post.sh
+post_deploy.sh
